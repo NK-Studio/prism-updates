@@ -1,0 +1,12 @@
+{
+  "platforms": {
+    "macos-aarch64": {
+      "sha256": "9b5fbf1883ff8f1f8a48fbabf97a9ff424393194015467d9b6f7bc9517840436",
+      "size": 26687316,
+      "url": "https://prism-updates.vercel.app/releases/1.2.0/prism-1.2.0-macos-aarch64.app.zip"
+    }
+  },
+  "pub_date": "2026-10-13",
+  "schema": 1,
+  "version": "1.2.0"
+}
