@@ -1,0 +1,8 @@
+.git
+.github
+.assetsignore
+wrangler.jsonc
+vercel.json
+README.md
+# Packages from before the move to GitHub Releases: Vercel still serves them, Cloudflare can't (25 MiB cap).
+releases/

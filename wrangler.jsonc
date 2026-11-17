@@ -1,0 +1,9 @@
+// Cloudflare Workers Builds deploys this repository on push: a static site with the Prism
+// update feed (written by `cargo xtask update publish` in the Prism repository).
+{
+  "name": "prism-updates",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "."
+  }
+}
